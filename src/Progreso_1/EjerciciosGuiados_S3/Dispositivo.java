@@ -1,4 +1,4 @@
-package Progreso_1.EjerciciosGuiados_S3.EjercicioGuiado3_S3;
+package Progreso_1.EjerciciosGuiados_S3;
 
 public class Dispositivo {
 
